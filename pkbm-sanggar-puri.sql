@@ -196,7 +196,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `email`, `password`, `nama`, `jk`, `no_hp`, `level`, `foto`, `status`, `token_ganti_password`) VALUES
-('ADM001', 'admin1', '$2y$10$UoZfrMd.D5Yy/GEdQm/Wdu3fXPBbbdWGn2G32VTWWonhbE60a84nu', 'Andika Prasetyo', 'Laki-Laki', '081323476512', 'admin', 'Andika Prasetyo.jpg', 2, ''),
+('ADM001', 'admin1', '$2y$10$UoZfrMd.D5Yy/GEdQm/Wdu3fXPBbbdWGn2G32VTWWonhbE60a84nu', 'Adella', 'Perempuan', '081323476512', 'admin', 'Adella.jpg', 2, ''),
 ('PD2021015', 'ben@gmail.com', '$2y$10$vuEfkWB8Y4uNA6Dm4a73uOs5sFlc8fXRcFjMDDCp6FjDmXwqIExJe', 'Bentley Hammington', 'L', '081298374829', 'siswa', '', 2, ''),
 ('PD2021018', 'sammy@gmail.com', '$2y$10$ZOjf9qBaQtnjLaVtExxTauqXf7ffw7I0whWC2sslRnBy9Yse4m1Z6', 'Sammy', 'P', '081298374829', 'siswa', 'Sammy.jpg', 2, ''),
 ('PDA2020001', 'adellapr77@gmail.com', '$2y$10$ozu2ruppt5/H7WlNR2fctutg1yzLFnRmNE.ojC3jIYm6p7iXi.xXK', 'Adella Putri Riani', 'P', '08962381721', 'siswa', 'Adella Putri Riani.jpg', 2, ''),
@@ -205,7 +205,7 @@ INSERT INTO `user` (`id_user`, `email`, `password`, `nama`, `jk`, `no_hp`, `leve
 ('PDB2021010', 'baerona@gmail.com', '$2y$10$ESr5uSLAANCDWzW0d4jBuOTxp1T2BPUx17bZm7d9psvWIvaiKer9C', 'Bae Ro Na', 'P', '08979182736', 'siswa', '', 2, ''),
 ('PDB2021014', 'prawira@gmail.com', '$2y$10$mzMLpo/P8noBL0taZXV/7e/adXrHu3xzvCM6fWOdSTmJu3UOPK7Dm', 'Ardhana Budi Prawiranegara', 'L', '', '', '', 2, ''),
 ('PDCA2021011', 'ardhana@gmail.com', '$2y$10$OuFSoTokjtvUukpjeug6POLIfBhfkYXe9JToF1ltSz9bxo2YvIELu', 'Ardhana Budi Prawiranegara', 'L', '08979182736', 'siswa', '', 1, ''),
-('TPD001', 'pkbmtendik1', '$2y$10$Jj9EIianNIG94n4NbiswXeoLQHc02laJt4C6gs2MCUFXaA5OY7RyG', 'Adella', 'Perempuan', '08962381721', 'tendik', 'Adella.jpg', 2, ''),
+('TPD001', 'pkbmtendik1', '$2y$10$Jj9EIianNIG94n4NbiswXeoLQHc02laJt4C6gs2MCUFXaA5OY7RyG', 'Putri', 'Perempuan', '08962381721', 'tendik', 'Putri.jpg', 2, ''),
 ('TPD002', 'pkbmtendik2', '$2y$10$Ra6PSBxH2G5FTMehD4vwheHZOFGgTVR8nXd516cNVnGGeKxu8Rdr.', 'Ilham', 'Laki-Laki', '08128437432', 'tendik', '', 2, '');
 
 --
